@@ -31,7 +31,7 @@ This project implements and compares two deep learning approaches for the classi
 
 | Metric                  | Method 1 (Segment + Classify) | Method 2 (Direct Classify) |
 |-------------------------|-------------------------------|----------------------------|
-| Test Accuracy           | 93.01%                        | 91.3%                      |
+| Test Accuracy           | 93.01%                        | 96.2%                      |
 | Segmentation Accuracy   | 99.27% (U-Net)                | –                          |
 | Dice Coefficient        | 0.6848                        | –                          |
 | Precision / Recall (avg)| ~0.93                         | ~0.91                      |
